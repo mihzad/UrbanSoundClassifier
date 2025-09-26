@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/rupakroy/urban-sound-8k
 Classification model used - MobileNetV3-Small:
 https://doi.org/10.1109/ICCV.2019.00140
 
-Architecture implementation baseline aquired from:
+Architecture implementation baseline acquired from:
 https://github.com/leaderj1001/MobileNetV3-Pytorch
 
 # Results
