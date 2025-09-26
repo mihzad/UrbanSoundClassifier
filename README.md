@@ -1,10 +1,17 @@
+# Dataset
+
 UrbanSound8k dataset classifier.
 Dataset downloaded from Kaggle:
 https://www.kaggle.com/datasets/rupakroy/urban-sound-8k
 
+# Architecture
 Classification model used - MobileNetV3-Small:
 https://doi.org/10.1109/ICCV.2019.00140
 
+Architecture implementation baseline aquired from:
+https://github.com/leaderj1001/MobileNetV3-Pytorch
+
+# Results
 Resulting confusion matrix for best checkpoint on the test set:
 
 <img width="975" height="723" alt="image" src="https://github.com/user-attachments/assets/c25fe5e2-3de8-4c35-a874-718dfe42a060" />
