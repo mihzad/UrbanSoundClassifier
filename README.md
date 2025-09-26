@@ -20,7 +20,7 @@ Classification report:
 
 <img width="560" height="402" alt="image" src="https://github.com/user-attachments/assets/223f1a63-77e8-4af2-ba1a-a29185f41be6" />
 
-Results for own-written test_samples:
+Results for own-written test_samples (find corresponding repo for wavs):
 
 <img width="975" height="202" alt="image" src="https://github.com/user-attachments/assets/24edd4fa-8e1b-438a-9d41-53b1a9521035" />
 
