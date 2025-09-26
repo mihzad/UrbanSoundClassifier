@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+#PyCharm folder
+*.idea
+
+#datasets
+data
+
 # Distribution / packaging
 .Python
 build/
